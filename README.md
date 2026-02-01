@@ -31,16 +31,16 @@ I enjoy building clean, scalable user interfaces, designing robust APIs, and dep
 ## 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,react,typescript,redux,sass,nodejs,php,laravel,mysql,aws,git,docker,graphql,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=javascript,react,typescript,redux,sass,nodejs,php,laravel,graphql,mysql,aws,git,docker,vite,webpack" />
 </p>
 
 <!-- Extra tools not available as skillicons -->
 <p>
-  <img src="https://img.shields.io/badge/TanStack%20Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Redux--Saga-999999?style=for-the-badge&logo=redux-saga&logoColor=white" />
   <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Design-005571?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-EF4444?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
 
