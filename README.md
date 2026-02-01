@@ -1,7 +1,7 @@
 
 <!-- Greeting with Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?size=32&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mamun+Hosen;Software+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?size=32&center=true&vCenter=true&width=600&lines=Hi+there!+👋;I'm+Mamun+Hosen" />
 </h1>
 
 <!-- Header: Contact Buttons -->
