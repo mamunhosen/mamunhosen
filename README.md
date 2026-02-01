@@ -9,7 +9,7 @@
   <a href="https://wa.me/+8801716340278" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:mamun.hosen@outlook.com" target="_blank">
+  <a href="mailto:mamun.hosen@outlook.com?subject=GitHub%20Profile%20Contact">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mamun-hosen" target="_blank">
