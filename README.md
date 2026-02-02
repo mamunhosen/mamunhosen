@@ -66,7 +66,7 @@ I work end-to-end—from frontend architecture and API design to AWS-based deplo
 ---
 
 ### **🧠 Frontend Architecture & State Management**
-- **State & Data Management:** Redux, Redux-Saga, Redux-Form, TanStack Query
+- **State & Data Management:** Redux, Redux-Saga, Redux-Form, TanStack Query, Redux-Thunk
 - **Routing & Navigation:** React Router  
 - **Selector Optimization:** Reselect, Re-reselect  
 - **Data Handling & Utilities:** Axios (custom instances, interceptors), Lodash  
