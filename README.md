@@ -35,7 +35,7 @@ I work end-to-end—from frontend architecture and API design to AWS-based deplo
 
 ### **⚛️ Frontend**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,sass,vite,webpack" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,redux,jest,sass,vite,webpack" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=flat&logo=mui&logoColor=white" />
