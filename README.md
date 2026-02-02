@@ -72,6 +72,7 @@ I work end-to-end—from frontend architecture and API design to AWS-based deplo
 - **Data Handling & Utilities:** Axios (custom instances, interceptors), Lodash  
 - **UI Interactions:** React-DnD  
 - **Document Generation:** React-PDF (frontend PDF generation)  
+- **Testing:** Jest (test runner), @testing-library/react, @testing-library/jest-dom (extended assertions)  
 - **Performance Techniques:** Normalized state, memoized selectors, derived data  
 
 ---
