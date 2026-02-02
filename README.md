@@ -67,9 +67,11 @@ I work end-to-end—from frontend architecture and API design to AWS-based deplo
 
 ### **🧠 Frontend Architecture & State Management**
 - **State & Data Management:** Redux, Redux-Saga, Redux-Form, TanStack Query
+- **Routing & Navigation:** React Router  
 - **Selector Optimization:** Reselect, Re-reselect  
-- **Data Handling:** Axios (custom instances, interceptors), Lodash  
+- **Data Handling & Utilities:** Axios (custom instances, interceptors), Lodash  
 - **UI Interactions:** React-DnD  
+- **Document Generation:** React-PDF (frontend PDF generation)  
 - **Performance Techniques:** Normalized state, memoized selectors, derived data  
 
 ---
