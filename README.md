@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer with 10+ years of experience building and scaling web platforms. I specialize in React-based frontend architecture, state management at scale, and API-first systems using REST and GraphQL.
+Software Engineer with 10+ years of experience building and scaling web platforms. I specialize in React-based frontend architecture, state management at scale, and API-first systems using REST.
 
 I’ve delivered large-scale products including ERP, HRMS, and high-traffic CMS platforms, focusing on reusable UI foundations, performance optimization, and long-term maintainability.
 
@@ -72,7 +72,7 @@ I work end-to-end—from frontend architecture and API design to AWS-based deplo
 - **Data Handling & Utilities:** Axios (custom instances, interceptors), Lodash  
 - **UI Interactions:** React-DnD  
 - **Document Generation:** React-PDF (frontend PDF generation)  
-- **Testing:** Jest (test runner), @testing-library/react, @testing-library/jest-dom (extended assertions)  
+- **Testing:** Vitest/Jest (test runner), @testing-library/react, @testing-library/jest-dom (extended assertions)  
 - **Performance Techniques:** Normalized state, memoized selectors, derived data  
 
 ---
